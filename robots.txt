@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /concept-editorial.html
+Disallow: /concept-observatory.html
+Disallow: /concept-swiss.html
+
+Sitemap: https://glucaapp.github.io/personal_website/sitemap.xml

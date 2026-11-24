@@ -1,0 +1,14 @@
+{
+  "name": "Gianluca Pagliaro, PhD",
+  "short_name": "G.P.",
+  "description": "Academic website of Gianluca Pagliaro, a researcher in neutron-star astrophysics, continuous gravitational waves, and X-ray astronomy.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091412",
+  "theme_color": "#091412",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
